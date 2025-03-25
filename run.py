@@ -1,6 +1,10 @@
 # %% [markdown]
 # #### imports
 
+# hought clouds.
+# http://www.abbyy.com
+# http://cloud.google.com/vision
+
 # %%
 # SSIM para os histogramas 
 # constancia de cor, erro angular
